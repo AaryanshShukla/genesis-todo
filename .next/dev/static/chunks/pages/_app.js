@@ -1,0 +1,13 @@
+__turbopack_load_page_chunks__("/_app", [
+  "static/chunks/e6292_next_dist_compiled_aa8dd9ea._.js",
+  "static/chunks/e6292_next_dist_shared_lib_1f24d483._.js",
+  "static/chunks/e6292_next_dist_client_b75df263._.js",
+  "static/chunks/e6292_next_dist_eaaa28b8._.js",
+  "static/chunks/e6292_next_app_fe9db60d.js",
+  "static/chunks/[next]_entry_page-loader_ts_c730344b._.js",
+  "static/chunks/e6292_react-dom_07c95167._.js",
+  "static/chunks/e6292_1c77f875._.js",
+  "static/chunks/[root-of-the-server]__afaaa07c._.js",
+  "static/chunks/_gemini_antigravity_scratch_gand-faad-todo_pages__app_2da965e7._.js",
+  "static/chunks/turbopack-_gemini_antigravity_scratch_gand-faad-todo_pages__app_a42ef474._.js"
+])

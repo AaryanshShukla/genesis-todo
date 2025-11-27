@@ -1,0 +1,50 @@
+{
+  "pages": {
+    "/_app": [
+      "static/chunks/e6292_next_dist_compiled_aa8dd9ea._.js",
+      "static/chunks/e6292_next_dist_shared_lib_1f24d483._.js",
+      "static/chunks/e6292_next_dist_client_b75df263._.js",
+      "static/chunks/e6292_next_dist_eaaa28b8._.js",
+      "static/chunks/e6292_next_app_fe9db60d.js",
+      "static/chunks/[next]_entry_page-loader_ts_c730344b._.js",
+      "static/chunks/e6292_react-dom_07c95167._.js",
+      "static/chunks/e6292_1c77f875._.js",
+      "static/chunks/[root-of-the-server]__afaaa07c._.js",
+      "static/chunks/_gemini_antigravity_scratch_gand-faad-todo_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-_gemini_antigravity_scratch_gand-faad-todo_pages__app_a42ef474._.js"
+    ],
+    "/_error": [
+      "static/chunks/e6292_next_dist_compiled_aa8dd9ea._.js",
+      "static/chunks/e6292_next_dist_shared_lib_e4a51aa7._.js",
+      "static/chunks/e6292_next_dist_client_b75df263._.js",
+      "static/chunks/e6292_next_dist_65b5b231._.js",
+      "static/chunks/e6292_next_error_55caeab9.js",
+      "static/chunks/[next]_entry_page-loader_ts_1cb340cf._.js",
+      "static/chunks/e6292_react-dom_07c95167._.js",
+      "static/chunks/e6292_1c77f875._.js",
+      "static/chunks/[root-of-the-server]__be37d768._.js",
+      "static/chunks/_gemini_antigravity_scratch_gand-faad-todo_pages__error_2da965e7._.js",
+      "static/chunks/turbopack-_gemini_antigravity_scratch_gand-faad-todo_pages__error_59bf3712._.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/e6292_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [
+    "static/development/_ssgManifest.js",
+    "static/development/_buildManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_b52256c2._.js",
+    "static/chunks/e6292_next_dist_compiled_react-dom_0d914363._.js",
+    "static/chunks/e6292_next_dist_compiled_react-server-dom-turbopack_54f19f69._.js",
+    "static/chunks/e6292_next_dist_compiled_next-devtools_index_7f6a08df.js",
+    "static/chunks/e6292_next_dist_compiled_777a72d8._.js",
+    "static/chunks/e6292_next_dist_client_215dee99._.js",
+    "static/chunks/e6292_next_dist_6c0ff5f6._.js",
+    "static/chunks/e6292_@swc_helpers_cjs_40a83bd6._.js",
+    "static/chunks/_gemini_antigravity_scratch_gand-faad-todo_a0ff3932._.js",
+    "static/chunks/turbopack-_gemini_antigravity_scratch_gand-faad-todo_3d8316d8._.js"
+  ]
+}

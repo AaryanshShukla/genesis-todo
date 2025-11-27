@@ -1,0 +1,10 @@
+var R=require("../../../chunks/[turbopack]_runtime.js")("server/app/api/chat/route.js")
+R.c("server/chunks/e6292_next_02243c67._.js")
+R.c("server/chunks/e6292_@opentelemetry_api_build_esm_36c8b9be._.js")
+R.c("server/chunks/e6292_@huggingface_inference_dist_esm_6c600d4e._.js")
+R.c("server/chunks/e6292_@huggingface_tasks_dist_esm_a504e06c._.js")
+R.c("server/chunks/e6292_@huggingface_jinja_dist_index_e62aeeb9.js")
+R.c("server/chunks/[root-of-the-server]__a40d98e5._.js")
+R.c("server/chunks/12d90_gand-faad-todo__next-internal_server_app_api_chat_route_actions_f112e10a.js")
+R.m("[project]/.gemini/antigravity/scratch/gand-faad-todo/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/.gemini/antigravity/scratch/gand-faad-todo/app/api/chat/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/.gemini/antigravity/scratch/gand-faad-todo/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/.gemini/antigravity/scratch/gand-faad-todo/app/api/chat/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports
